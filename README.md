@@ -3,7 +3,7 @@
 
 Features:
 
--   Free & Open Source
+-   Gratis
 -   Easy to use
 -   Multiple Player Options (VLC / MPV)
 -   Record Live Streams
