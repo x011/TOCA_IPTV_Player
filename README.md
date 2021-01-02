@@ -23,7 +23,7 @@ Here's how to install **TOCA IPTV Player** and play channels:
 
 5. Click on the **Channel Name** to play it:
 
-![](https:/https://i.imgur.com/s3O3SIj.jpg)
+![](https://i.imgur.com/s3O3SIj.jpg)
 
 ----------
 
