@@ -33,7 +33,8 @@ Notes:
 -   You can change the default player on **Player Options** -> **Settings**. Options are VLC and MPV;
 -   Enable **Full Screen** and **Channel Recording** on **Player Options** -> **Settings**;
 -   The recordings are saved on the **VIDEOS** Folder;
-- Player Options MEnu
+-   Player Options Menu:  
+
 ![](https://i.imgur.com/lpkf9P0.jpg)
 
 
