@@ -11,7 +11,7 @@ Features:
 
 Here's how to install **TOCA IPTV Player** and play channels:
 
-1.  Start by [Downloading]() and Installing the Application;
+1.  Start by [Downloading](https://github.com/x011/TOCA_IPTV_Player/releases/download/1.0/TOCA_IPTV_Setup.exe) and Installing the Application;
 2.  After installing, an icon will be placed on your desktop, click on it to open the player;
 3.  Paste (CTRL+V) the "**M3U Plus URL"** received from your IPTV Povider and click "**LOAD M3U"**:
 
