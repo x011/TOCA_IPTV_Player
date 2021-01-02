@@ -3,7 +3,7 @@
 
 Features:
 
--   Gratis
+-   Freeware
 -   Easy to use
 -   Multiple Player Options (VLC / MPV)
 -   Record Live Streams
