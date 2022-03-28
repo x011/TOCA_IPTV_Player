@@ -12,7 +12,7 @@ Here's how to install **TOCA IPTV Player** and play channels:
 
 1.  Start by [Download](https://github.com/x011/TOCA_IPTV_Player/releases/latest/download/TOCA_IPTV_Setup.exe) and Install the latest version;
 
- - 1.a - If you see a Window$ Defender SmartScreen prompt, choose "*more info*":
+ - 1.a - If you see a Window$ Defender SmartScreen prompt, choose "*More info*":
 
 ![](https://i.imgur.com/kXhACGy.png)
 
