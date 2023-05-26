@@ -44,3 +44,11 @@ Notes:
 -   Player Options Menu:  
 
 ![](https://i.imgur.com/lpkf9P0.jpg)
+
+----------
+
+FAQ:
+
+1. **Error** "this page is having a problem":  
+Go to Settings > Apps > Apps & Features > search and select Microsoft Edge /Microsoft Edge  WebView2 Runtime > click on Advanced options > under Reset, select "Repair" or "Reset".
+
