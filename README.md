@@ -50,5 +50,5 @@ Notes:
 FAQ:
 
 1. **Error** "this page is having a problem":  
-Go to Settings > Apps > Apps & Features > search and select Microsoft Edge /Microsoft Edge  WebView2 Runtime > click on Advanced options > under Reset, select "Repair" or "Reset".
+Go to Settings > Apps > Apps & Features > search and select Microsoft Edge / Microsoft Edge  WebView2 Runtime > click on Advanced options > under Reset, select "Repair" or "Reset".
 
